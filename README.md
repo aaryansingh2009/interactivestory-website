@@ -5,7 +5,10 @@ Welcome to our FBLA - Intro to Programming website.
 
 This website is an interactive story allowing interaction with users. There are stories which you can choose from and goes on based on what the user chooses on.
 
-User can chose options and continue interacting. Any time clikc `stop` to go back to main story.
+User can chose options and continue interacting. Any time click `stop` to go back to main story.
+
+## Demo:
+Website: https://aaryansingh2009.github.io/interactivestory-website/
 
 ## Code Base:
 We used a variety of languages such as HTML, CSS, and JavaScript. The most common language is HTML which formats each page. With the help of Bootstrap CSS , the web page is formatted with minimal CSS. However, if the output isn't good, we overwrote the CSS.
@@ -30,5 +33,4 @@ We welcome any and all contributions! Here are some ways you can get started:
 ##
 
 FBLA 2025 - Intro to Programming
-
 
