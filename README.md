@@ -34,4 +34,3 @@ We welcome any and all contributions! Here are some ways you can get started:
 
 FBLA 2025 - Intro to Programming
 
-
