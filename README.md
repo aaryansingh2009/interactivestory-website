@@ -7,8 +7,6 @@ This website is an interactive story allowing interaction with users. There are 
 
 User can chose options and continue interacting. Any time click `stop` to go back to main story.
 
-##
-
 ## Demo:
 Website: https://aaryansingh2009.github.io/interactivestory-website/
 
